@@ -8,7 +8,7 @@ It uses the Open-Meteo API to fetch current weather information without requirin
 🚀 Live Project
 
 🔗 Live Demo:
-YOUR_LIVE_PROJECT_LINK
+https://codepen.io/editor/mayurmemariya077/pen/01a0c775-7f78-7551-b2e4-153950c020ea
 
 🌐 Open the live project and search for any city to check its current weather.
 
