@@ -2,7 +2,7 @@
 
 🌤️ Weather App
 
-A simple and aesthetic Weather App built using HTML, CSS, and JavaScript.
+A simple Weather App built using HTML, CSS, and JavaScript.
 It uses the Open-Meteo API to fetch current weather information without requiring an API key. 🌍☁️
 
 🚀 Live Project
