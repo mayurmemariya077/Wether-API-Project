@@ -1,0 +1,44 @@
+
+
+
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Weather Today</title>
+
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+
+  <body>
+    <div class="weather-app">
+      <h1>Weather Today</h1>
+
+      <p class="subtitle">Check the current weather of your city</p>
+
+      <form id="form">
+        <div class="search-box">
+          <input
+            type="text"
+            placeholder="Enter city name"
+            id="cityName"
+            name="cityName"
+            autocomplete="off"
+            required
+          />
+
+          <button type="submit">Search</button>
+        </div>
+      </form>
+
+      <p id="error"></p>
+
+      <div id="container"></div>
+    </div>
+
+    <script src="./script.js"></script>
+  </body>
+</html>
