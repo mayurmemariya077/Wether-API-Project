@@ -5,6 +5,13 @@
 A simple Weather App built using HTML, CSS, and JavaScript.
 It uses the Open-Meteo API to fetch current weather information without requiring an API key. 🌍☁️
 
+
+<img width="1920" height="1080" alt="Screenshot (232)" src="https://github.com/user-attachments/assets/e97d5852-ee6f-439a-85a5-296e8f1f91c9" />
+
+
+
+
+
 🚀 Live Project
 
 🔗 Live Demo:
