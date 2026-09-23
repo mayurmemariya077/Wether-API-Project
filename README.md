@@ -15,7 +15,7 @@ https://codepen.io/editor/mayurmemariya077/pen/01a0c775-7f78-7551-b2e4-153950c02
 🎥 Project Explanation
 
 📺 Explanation Video:
-YOUR_EXPLANATION_VIDEO_LINK
+https://drive.google.com/file/d/1IC5XTGhDRezcExW4tGVTm448MSgnTF1S/view?usp=drive_link
 
 🎬 In this video, the complete project structure, API integration, JavaScript logic, and working of the Weather App are explained.
 
